@@ -1,0 +1,5 @@
+{
+  "name": "Fivr",
+  "description": "A simple freelance service marketplace called Fivr. Browse design services and contact the designer directly via WhatsApp. All services are managed by a secure admin dashboard.",
+  "requestFramePermissions": []
+}
